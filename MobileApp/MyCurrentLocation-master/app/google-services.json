@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751887791497",
+    "project_id": "geodump-27582",
+    "storage_bucket": "geodump-27582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751887791497:android:48c6337c234562d1ec5d58",
+        "android_client_info": {
+          "package_name": "com.example.mycurrentlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751887791497-c8sjc7l214mika953fp4vo9aqgig3fcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDza55xe6V8-P6NhVT1ipjN5jEZXSqhj7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751887791497-c8sjc7l214mika953fp4vo9aqgig3fcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
