@@ -16,6 +16,6 @@ The Health and Santinary Departmant could use the web application that provides 
 ## ScreenShots
 <img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/map1.jpg"></br>
 <img src ="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/map2.png"></br>
-<img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/Uploaded_Image.jpeg">
+<img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/Uploaded_Image.jpeg" width="80" height="160">
 <img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/Upload_Image1.jpg">
 
