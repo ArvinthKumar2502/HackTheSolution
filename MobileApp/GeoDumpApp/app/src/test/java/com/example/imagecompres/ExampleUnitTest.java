@@ -1,4 +1,4 @@
-package com.example.mycurrentlocation;
+package com.example.imagecompres;
 
 import org.junit.Test;
 
