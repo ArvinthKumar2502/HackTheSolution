@@ -14,9 +14,9 @@ The general public could install the mobile application and whenever they come a
 The Health and Santinary Departmant could use the web application that provides the *location* of the grabage dump along with the *Waste Quantity Index* which helps them take quick and appropriate action.
 
 ## ScreenShots
-<img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/map1.jpg"></br>
-<img src ="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/map2.png"></br>
-<img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/Upload_Image1.jpg"  width="400" height="800">
-<img src="https://github.com/Vignesh-Ganesan-008/HackTheSolution/blob/main/Uploaded_Image.jpeg" width="400" height="800">
+<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/map.png"></br>
+<img src ="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/satMap.png"></br>
+<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/Image%20select.jpg"  width="400" height="800">
+<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/Image%20Uploaded.jpg" width="400" height="800">
 
 
