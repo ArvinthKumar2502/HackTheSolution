@@ -16,7 +16,7 @@ The Health and Santinary Departmant could use the web application that provides 
 ## ScreenShots
 <img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/map.png"></br>
 <img src ="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/satMap.png"></br>
-<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/Image%20select.jpg"  width="350" height="700">
-<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/Image%20Uploaded.jpg" width="350" height="700">
+<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/Image%20select.jpg"  width="150" height="300">
+<img src="https://github.com/ArvinthKumar2502/HackTheSolution/blob/main/screenShots/Image%20Uploaded.jpg" width="150" height="300">
 
 
